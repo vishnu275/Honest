@@ -6,5 +6,6 @@
     <bean id="loginPage" class="GUI.Login.LoginPage"></bean>
     <bean id="createCompany" class="GUI.Login.CreateCompany"></bean>
     <bean id="adminHomePage" class="GUI.Admin.HomePage"></bean>
-     
+    <bean id="groupMaster" class="GUI.Admin.GroupMaster"></bean>
+    <bean id="locationMaster" class="GUI.Admin.LocationMaster"></bean>
 </beans>
