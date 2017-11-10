@@ -8,4 +8,9 @@
     <bean id="adminHomePage" class="GUI.Admin.HomePage"></bean>
     <bean id="groupMaster" class="GUI.Admin.GroupMaster"></bean>
     <bean id="locationMaster" class="GUI.Admin.LocationMaster"></bean>
+    <bean id="unitOfMeasurement" class="GUI.Admin.UnitOfMeasurement"></bean>
+    <bean id="currencyMaster" class="GUI.Admin.CurrencyMaster"></bean>
+    <bean id="salesExMaster" class="GUI.Admin.SalesExMaster"></bean>
+    <bean id="customerMaster" class="GUI.Admin.CustomerMaster"></bean>
+    <bean id="supplierMaster" class="GUI.Admin.SupplierMaster"></bean>
 </beans>
